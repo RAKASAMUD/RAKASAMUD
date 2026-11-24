@@ -23,19 +23,34 @@
 <div align="center">
 
 **Build the interface**<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,wordpress,expo&theme=dark" /><br>
+`React Native`
 
-**Ship the APIs**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres&theme=dark" />
-
-**Deploy to the cloud**<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,vercel&theme=dark" />
+**Store & secure the data**<br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite&theme=dark" /><br>
+`SQL` · `Row-level security`
 
 **Make sense of data**<br>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,scipy,matplotlib&theme=dark" /><br>
+`Seaborn`
+
+**Teach the machines**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" /><br>
+`Transformers` · `LoRA`
+
+**Write the contracts**<br>
+<img src="https://skillicons.dev/icons?i=solidity,rust,hardhat&theme=dark" /><br>
+`Foundry` · `Soroban` · `Wagmi` · `Viem`
+
+**Test before shipping**<br>
+<img src="https://skillicons.dev/icons?i=vitest,playwright&theme=dark" /><br>
+`Foundry`
+
+**Tools & media**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" /><br>
+`Google Sheets` · `Publicity design` · `Photography`
 
 </div>
-
 <br>
 
 ## 🎓 Certifications
