@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:2563EB&height=200&section=header&text=Raka%20Bagus%20Samudra&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=38&desc=IT%20student%20%C2%B7%20Frontend%20%26%20Backend&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:2563EB&height=200&section=header&text=Raka%20Bagus%20Samudra&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=38&desc=IT%20student%20%C2%B7%20Frontend%20and%20Backend&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://about-samud.vercel.app">
   <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
